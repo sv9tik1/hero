@@ -1,0 +1,14 @@
+C:\Users\Святик\Desktop\dolg\obj\Debug\net7.0\dolg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Святик\Desktop\dolg\obj\Debug\net7.0\dolg.AssemblyInfoInputs.cache
+C:\Users\Святик\Desktop\dolg\obj\Debug\net7.0\dolg.AssemblyInfo.cs
+C:\Users\Святик\Desktop\dolg\obj\Debug\net7.0\dolg.csproj.CoreCompileInputs.cache
+C:\Users\Святик\Desktop\dolg\bin\Debug\net7.0\dolg.exe
+C:\Users\Святик\Desktop\dolg\bin\Debug\net7.0\dolg.deps.json
+C:\Users\Святик\Desktop\dolg\bin\Debug\net7.0\dolg.runtimeconfig.json
+C:\Users\Святик\Desktop\dolg\bin\Debug\net7.0\dolg.dll
+C:\Users\Святик\Desktop\dolg\bin\Debug\net7.0\dolg.pdb
+C:\Users\Святик\Desktop\dolg\obj\Debug\net7.0\dolg.dll
+C:\Users\Святик\Desktop\dolg\obj\Debug\net7.0\refint\dolg.dll
+C:\Users\Святик\Desktop\dolg\obj\Debug\net7.0\dolg.pdb
+C:\Users\Святик\Desktop\dolg\obj\Debug\net7.0\dolg.genruntimeconfig.cache
+C:\Users\Святик\Desktop\dolg\obj\Debug\net7.0\ref\dolg.dll
